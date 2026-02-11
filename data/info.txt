@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Valeria González Nava 
+Matrícula: A00842141
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Por es esencial en la carrera ya que es introductorio a todos los temas necesarios, así como es interesante
+
+¿Qué espero aprender?
+Aprender conceptos y a entender y pensar por mi mismo, no a seguir tal cual procedimientos sin haberlos comprendido completamente
+
+Herramientas que ya conozco:
+- Phyton
+- GoogleColab
+
+Herramientas nuevas para mí:
+- Comandos para la Terminal
+- Algunas funciones de Github
