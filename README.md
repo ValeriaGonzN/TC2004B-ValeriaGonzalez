@@ -2,7 +2,7 @@
 
 
 
-\*\*Nombre:\*\* Valeria González Nava  
+\*\*Nombre:\*\* Valeria González Nava
 
 \*\*Matrícula:\*\* A00842141
 
@@ -55,4 +55,12 @@ TC2004B-TuNombre/
 \- Email: a00842141@tec.mx
 
 \- GitHub: \[@ValeriaGonzN](https://github.com/ValeriaGonzN)
+
+
+
+\## Acceso Rápido
+
+\- \[Práctica Iris (Notebook)](./notebooks/semana1\_practica\_iris.ipynb)
+
+\- \[Información personal] (Data)](./data/info.txt)
 
