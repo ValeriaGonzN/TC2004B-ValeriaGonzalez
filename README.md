@@ -74,8 +74,8 @@ TC2004B-TuNombre/
 
 #### 1. Clonar repositorio
 ```bash
-git clone https://github.com/TuUsuario/TC2004B-TuNombre.git
-cd TC2004B-TuNombre
+git clone https://github.com/ValeriaGonzN/TC2004B-ValeriaGonzalez
+cd TC2004B-ValeriaGonzN
 ```
 
 #### 2. Crear ambiente virtual
@@ -103,6 +103,8 @@ jupyter notebook
 ```
 
 Navega a `notebooks/` y abre el .ipynb
+
+Kernel → Restart & Run All
 
 ### Desactivar ambiente
 ```bash
